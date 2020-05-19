@@ -43,8 +43,8 @@
         });
 
     });
-	
-	
+  
+
     // Nivo Lightbox 
     $('.portfolio-item a').nivoLightbox({
             effect: 'slideDown',  
